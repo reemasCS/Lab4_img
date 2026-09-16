@@ -12,4 +12,4 @@ This lab applies different image processing techniques using Python.
 - NumPy
 - Matplotlib
 - Scikit-image
-- 
+  
